@@ -1,0 +1,10 @@
+#store {
+    display: flex;
+    width: 90%;
+    float: right;
+    margin: 15px 0;
+}
+
+#store_img {
+    margin-right: 15px;
+}
